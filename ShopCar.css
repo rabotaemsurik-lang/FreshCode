@@ -1,0 +1,9 @@
+tr,
+td {
+  border: darkcyan 2px solid;
+  text-align: center;
+  font-weight: bold;
+}
+table{
+    border: darkcyan 2px solid;
+}
