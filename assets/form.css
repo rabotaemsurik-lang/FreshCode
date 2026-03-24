@@ -1,0 +1,23 @@
+.range-container {
+  width: 300px; 
+  display: flex;
+  flex-direction: column;
+}
+
+input[type="range"] {
+  width: 100%;
+  margin: 0;
+}
+
+datalist {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 5px;
+}
+
+option {
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  width: 1ch; 
+}
